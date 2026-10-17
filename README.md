@@ -2,6 +2,6 @@
 
 
 - 🔭 I make stuff in things I like... right now, I'm working on a board game webapp!
-- 🌱 I’m currently learning some Golang...
+- 🌱 I’m currently learning some React Native...
 
 - 💬 Ask me about CORS! (mainly how much of a pain it is) 
